@@ -1,24 +1,20 @@
-<h2 align="center">
-  <a href=#><img src="https://raw.githubusercontent.com/armbian/.github/master/profile/logosmall.png" alt="Armbian logo"></a>
-  <br><br>
-</h2>
+ https://github. user.com/armbian/.github/ma
 
 ### 🖧 Perfect for Server and IoT
 
 - Lightweight Linux OS optimized for custom ARM / RISC-V / Intel hardware  
-- **Ubuntu LTS** and **Debian stable**
-- Comes with powerful `armbian-config` system configurator, **ZSH** or standard **BASH** shell
+- Comes with powerful armbian-config system configurator, standard 
 
 
 ### 🛠️ Simple for Compiling
 
-- Powerful multi-architecture supporting **ARM (armhf, arm64)**, **RISC-V (riscv64)**, **LoongArch (loong64)**, and **x86**
+- Powerful multi-architecture supporting
 - Native builds or containerized environments — fast and flexible
-- Runs seamlessly on **Linux**, **Windows**, **macOS**, and **GitHub Actions**
+- Runs seamlessly on Linux and GitHub 
 
 
 ### 🖥️ Excellent for Desktop
 
-- Fully featured **XFCE**, **GNOME** or **Cinnamon** desktops  
+- Fully featured  or desktops  
 - 3D and video acceleration
-- Community support for: **Budgie**, **i3**, **KDE Plasma**, **MATE**, **Xmonad**
+- Community support  
